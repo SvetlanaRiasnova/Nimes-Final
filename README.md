@@ -1,2 +1,2 @@
 # Nimes-Final
-homework14
+Первый проект в курсе "Frontend-разработчик" от Fogstream-академии.
